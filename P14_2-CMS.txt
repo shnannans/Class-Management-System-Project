@@ -1,0 +1,11 @@
+Database Name: P14-2 CMS
+Authors: Shannon, Jeanie, Jing Wen, Venecia
+
+Table Name: StudentRecords
+ID	Name                                   	Programme                                     	Mark
+1010101	Mary                                   	Computing Science                             	100.0
+1212121	Michelle Yeo                           	Ai                                            	45.5
+1111111	Jane Doe                               	Applied Computing                             	45.5
+9876543	Mary Winston Avery Sim                 	Engineering             	                67.6
+5151515 Kelvin Teo                          	Applied Computing                             	80.0
+2201234	Isaac Teo                              	Computer Science                              	63.4
