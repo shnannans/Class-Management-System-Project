@@ -35,8 +35,8 @@ Simple file-based Database Management System (DBMS) built in C for managing stud
 
 | Column | Data Type | Description | Example |
 |--------|-----------|-------------|---------|
-| **ID** | Integer | Unique 7-digit student ID | 2403464 |
-| **Name** | String (50 chars) | Student full name | Venecia Weng |
+| **ID** | Integer | Unique 7-digit student ID | 2606006 |
+| **Name** | String (50 chars) | Student full name | Kelvin Hang |
 | **Programme** | String (50 chars) | Degree program | Applied Computing |
 | **Mark** | Float | Grade score (0-100) | 80.0 |
 
