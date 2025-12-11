@@ -21,10 +21,10 @@ Simple file-based Database Management System (DBMS) built in C for managing stud
 |---------|-------------|---------|
 | **OPEN** | Load database file | `OPEN` |
 | **SHOW ALL** | Display all student records | `SHOW ALL` |
-| **INSERT** | Add new student record | `INSERT ID=2403464 Name=Venecia Weng Programme=Applied Computing Mark=80.0` |
-| **QUERY** | Search by student ID | `QUERY ID=2403464` |
-| **UPDATE** | Modify existing record | `UPDATE ID=2403464 Mark=85.5` |
-| **DELETE** | Remove student record | `DELETE ID=2403464` |
+| **INSERT** | Add new student record | `INSERT ID=9876543 Name=Mary Winston Avery Sim Programme=Engineering Mark=67.6` |
+| **QUERY** | Search by student ID | `QUERY ID=9876543` |
+| **UPDATE** | Modify existing record | `UPDATE ID=9876543 Mark=69.0` |
+| **DELETE** | Remove student record | `DELETE ID=9876543` |
 | **SAVE** | Write changes to file | `SAVE` |
 
 ---
