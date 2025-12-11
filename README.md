@@ -48,7 +48,7 @@ Authors: Faculty (Frank Guan, Zhengchen, Jacob)
 Table Name: StudentRecords
 ID      Name             Programme               Mark
 2301234	Joshua Chen	     Software Engineering	   70.5
-2201234	Isaac Teo	       Computer Science	       63.4
+2201234	Isaac Teo	     Computer Science	       63.4
 2304567	John Levoy	     Digital Supply Chain	   85.9
 ```
 
@@ -125,7 +125,7 @@ gcc P14_2-Main.c -o P14_2-Main
 
 ### Insert New Record
 ```
-CMS> INSERT ID=2403464 Name=Venecia Weng Programme=Applied Computing Mark=80.0
+CMS> INSERT ID=2606006 Name=Kelvin Hang Programme=Applied Computing Mark=80.0
 A new record with ID=2403464 is successfully inserted.
 ```
 
@@ -134,21 +134,21 @@ A new record with ID=2403464 is successfully inserted.
 CMS> QUERY ID=2606006
 The record with ID=2606006 is found in the data table.
 ID      Name            Programme               Mark
-2606006 Kelvin Hang    Applied Computing       80.0
+2606006 Kelvin Hang     Applied Computing       80.0
 ```
 
 ### Update Record
 ```
-CMS> UPDATE ID=2403464 Mark=85.5
-The record with ID=2403464 is successfully updated.
+CMS> UPDATE ID=2606006 Mark=85.5
+The record with ID=2606006 is successfully updated.
 ```
 
 ### Delete with Confirmation
 ```
-CMS> DELETE ID=2403464
-Are you sure you want to delete record with ID=2403464? Type "Y" to Confirm or "N" to cancel.
+CMS> DELETE ID=2606006
+Are you sure you want to delete record with ID=2606006? Type "Y" to Confirm or "N" to cancel.
 Y
-The record with ID=2403464 is successfully deleted.
+The record with ID=2606006 is successfully deleted.
 ```
 
 ### Show All Records
@@ -159,6 +159,7 @@ ID      Name                    Programme               Mark
 1010101 Mary                    Computing Science       100.0
 1212121 Michelle Yeo            AI                      45.5
 2201234 Isaac Teo               Computer Science        63.4
+2606006 Kelvin Hang             Applied Computing       85.5
 ```
 
 ---
